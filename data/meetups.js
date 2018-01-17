@@ -1,51 +1,9 @@
 export default [
   {
-    id: 1,
-    name: 'Some new meetup',
-    description: 'Some info about the meetup.',
-    datetime: '2018-01-26 10:00:00',
-    link: 'https://meetup.com/bendjs',
-    location: 'OSU Cascades 124',
-    tags: ['vue', 'es6']
-  },
-
-  {
-    id: 2,
-    name: 'Some new meetup 2',
-    description: 'Some info about the meetup.',
-    datetime: '2018-01-26 10:00:00',
-    link: 'https://meetup.com/bendjs',
-    location: 'OSU Cascades 124',
-    tags: ['vue', 'es6']
-  },
-
-  {
-    id: 3,
-    name: 'Some new meetup 3',
-    description: 'Some info about the meetup.',
-    datetime: '2018-01-26 10:00:00',
-    link: 'https://meetup.com/bendjs',
-    location: 'OSU Cascades 124',
-    tags: ['vue', 'es6']
-  },
-
-  {
-    id: 4,
-    name: 'Some new meetup 4',
-    description: 'Some info about the meetup.',
-    datetime: '2018-01-26 10:00:00',
-    link: 'https://meetup.com/bendjs',
-    location: 'OSU Cascades 124',
-    tags: ['vue', 'es6']
-  },
-
-  {
-    id: 5,
-    name: 'Some new meetup 5',
-    description: 'Some info about the meetup.',
-    datetime: '2018-01-26 10:00:00',
-    link: 'https://meetup.com/bendjs',
-    location: 'OSU Cascades 124',
-    tags: ['vue', 'es6']
+    id: 246847190,
+    name: 'BendJS Hangout Fun',
+    description: 'Come hangout with fellow JavaScript developers to discuss the latest happenings in our community, meet some new people, or get some help with a project you are working on.',
+    datetime: '2018-01-23 18:00:00',
+    link: 'https://www.meetup.com/BendJS/events/246847190/'
   }
 ];
