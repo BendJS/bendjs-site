@@ -1,7 +1,7 @@
 <template>
   <container>
     <div>
-      <img width="500" src="/images/bendjs-logo.png" alt="">
+      <img width="500" src="images/bendjs-logo.png" alt="">
     </div>
 
     <events-list></events-list>
